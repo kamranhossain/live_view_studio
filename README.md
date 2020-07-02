@@ -1,6 +1,13 @@
 # LiveViewStudio
 
-### Code for 1-button-clicks-start
+### Code for 1-button-clicks-end
+
+#### functionalities
+
+- Light on(100%)
+- Light off(0%)
+- Light up(+10%)
+- Light down(-10%)
 
 To start your Phoenix server:
 
@@ -9,7 +16,8 @@ To start your Phoenix server:
 - Install Node.js dependencies with `npm install` inside the `assets` directory
 - Start Phoenix endpoint with `mix phx.server`
 
-Now you can visit [`localhost:4000`](http://localhost:4000) from your browser.
+Now you can visit [`localhost:4000`](http://localhost:4000) from your browser
+Then goto this route [`localhost:4000/light`](http://localhost:4000/light)
 
 Ready to run in production? Please [check our deployment guides](https://hexdocs.pm/phoenix/deployment.html).
 
